@@ -10,23 +10,6 @@
 ```mermaid
 gitGraph
   commit
-  branch feature/main
-  switch feature/main
-  commit
-  switch main
-  merge feature/main
-  commit
-  branch feature/100knocks
-  switch feature/100knocks
-  commit
-  switch main
-  merge feature/100knocks
-```
-
-
-```mermaid
-gitGraph
-  commit
   commit
   branch featuer/main
   switch featuer/main
